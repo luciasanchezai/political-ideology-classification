@@ -20,7 +20,7 @@ Multiclass NLP project to classify user ideology based on tweets using different
 ## 📁 Project structure
 - `notebooks/` — experiments and comparisons
 - `models/` — saved or sample models
-- `report.pdf` — summary of findings (optional)
+- `report.pdf` — summary of findings 
 
 ## 🚀 Future ideas
 - Add more classes or political regions
